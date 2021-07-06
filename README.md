@@ -64,7 +64,7 @@
 ![Material UI](https://img.shields.io/badge/Material--UI-333333?style=for-the-badge&logo=material-ui&logoColor=white)&nbsp;&nbsp;
 ![Heroku](https://img.shields.io/badge/Heroku-333333?style=for-the-badge&logo=heroku&logoColor=white)&nbsp;&nbsp;
 ![Git](https://img.shields.io/badge/Git-333333?style=for-the-badge&logo=Git&logoColor=white)&nbsp;&nbsp;
-![Github](https://img.shields.io/badge/GitHub%20-333333.svg-333333?&style=for-the-badge&color=white&logoColor=white") &nbsp;&nbsp;
+![Github](https://img.shields.io/badge/GitHub%20-%23F7DF1E.svg-333333?&style=for-the-badge&color=white&logoColor=white") &nbsp;&nbsp;
 <br>
 
 ### Github Stats
