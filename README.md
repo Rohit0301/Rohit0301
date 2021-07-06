@@ -38,10 +38,10 @@
 ### Languages
 
 ![Java](https://img.shields.io/badge/Java-yellow?style=flat-square&logo=Java&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?&logo=JavaScript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-skyblue?style=flat-square&logo=Python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-orange?&logo=JavaScript&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
-![SQL](https://img.shields.io/badge/-SQL-pink?&logo=MySQL&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-green?&logo=MySQL&logoColor=white)
 
 
 ### Technologies
@@ -93,15 +93,6 @@
 
 <br>
 
-### 📈 GitHub Activity:
-<br>
-  <a href="https://github.com/Rohit0301/github-readme-activity-graph"><img alt="DenverCoder1's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Rohit0301&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
-
-<p align="center">
-<a href="https://profile.codersrank.io/user/ROhit0301"><img width="494px" src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=ROhit0301&layout=horizontal&badges=3&show-avatar=true&min-width=494px&branding=false&style=--bg-color:%23fff;--border:1px%20solid%23e4e2e2;--border-radius:4px;--header-padding:20px;--header-bg-color:%232f80ed;--name-font-size:18px;--name-font-weight:bold;--rank-font-size:14px;--preloader-color:%232f80ed;--badges-padding:20px;--badge-box-shadow:none;--badge-border:1px%20solid%23e4e2e2;--badge-rank-font-size:12px;--badge-location-font-size:12px;--badge-padding:10px;--badge-margin:10px;--badge-icon-size:16px;--badge-technology-font-size:14px;--badge-technology-font-weight:normal)" /></a>
-</p>
-
-<br>  
 
   
 ![](https://github.com/amandewatnitrr/amandewatnitrr/blob/main/imgs/bottom_header.svg)
