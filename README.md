@@ -37,11 +37,11 @@
 
 ### Languages
 
-![Java](https://img.shields.io/badge/Java-013243?style=flat-square&logo=Java&logoColor=white)
+![Java](https://img.shields.io/badge/Java-yellow?style=flat-square&logo=Java&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?&logo=JavaScript&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
-![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-pink?&logo=MySQL&logoColor=white)
 
 
 ### Technologies
@@ -72,6 +72,7 @@
 <p align="center">
   <a href="https://github.com/Rohit0301"><span>
     <img height="48%" src="https://github-readme-stats.vercel.app/api?username=Rohit0301&count_private=true&show_icons=true&theme=radical&&include_all_commits=true"/>
+    <br>
     <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Rohit0301&theme=radical" />
     <br>
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Rohit0301&hide=html,css,javascript,scss&layout=compact&langs_count=8&theme=radical"/>
@@ -91,6 +92,7 @@
 </p>
 
 <br>
+
 ### 📈 GitHub Activity:
 <br>
   <a href="https://github.com/Rohit0301/github-readme-activity-graph"><img alt="DenverCoder1's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Rohit0301&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
