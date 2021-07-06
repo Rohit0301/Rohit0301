@@ -37,11 +37,11 @@
 
 ### Languages
 
-![Java](https://img.shields.io/badge/Java-yellow?style=flat-square&logo=Java&logoColor=white)&nbsp;&nbsp;
-![Python](https://img.shields.io/badge/Python-skyblue?style=flat-square&logo=Python&logoColor=white)&nbsp;&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-orange?&logo=JavaScript&logoColor=white)&nbsp;&nbsp;
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)&nbsp;&nbsp;
-![SQL](https://img.shields.io/badge/-SQL-green?&logo=MySQL&logoColor=white)&nbsp;&nbsp;
+![Java](https://img.shields.io/badge/Java-yellow?style=for-the-badge&logo=Java&logoColor=white)&nbsp;&nbsp;
+![Python](https://img.shields.io/badge/Python-skyblue?style=for-the-badge&logo=Python&logoColor=white)&nbsp;&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-orange?style=for-the-badge&logo=JavaScript&logoColor=white)&nbsp;&nbsp;
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)&nbsp;&nbsp;
+![SQL](https://img.shields.io/badge/-SQL-green?style=for-the-badge&logo=MySQL&logoColor=white)&nbsp;&nbsp;
 
 
 ### Technologies
@@ -63,8 +63,8 @@
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-333333?style=for-the-badge&logo=bootstrap&logoColor=white)&nbsp;&nbsp;
 ![Material UI](https://img.shields.io/badge/Material--UI-333333?style=for-the-badge&logo=material-ui&logoColor=white)&nbsp;&nbsp;
 ![Heroku](https://img.shields.io/badge/Heroku-333333?style=for-the-badge&logo=heroku&logoColor=white)&nbsp;&nbsp;
-![Git](https://img.shields.io/badge/Git-333333?style=flat-square&logo=Git&logoColor=white)&nbsp;&nbsp;
-![Github](https://img.shields.io/badge/GitHub%20-333333.svg?&style=for-the-badge&color=white") &nbsp;&nbsp;
+![Git](https://img.shields.io/badge/Git-333333?style=for-the-badge&logo=Git&logoColor=white)&nbsp;&nbsp;
+![Github](https://img.shields.io/badge/GitHub%20-333333.svg-333333?&style=for-the-badge&color=white&logoColor=white") &nbsp;&nbsp;
 <br>
 
 ### Github Stats
