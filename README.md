@@ -37,34 +37,34 @@
 
 ### Languages
 
-![Java](https://img.shields.io/badge/Java-yellow?style=flat-square&logo=Java&logoColor=white)
-![Python](https://img.shields.io/badge/Python-skyblue?style=flat-square&logo=Python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-orange?&logo=JavaScript&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
-![SQL](https://img.shields.io/badge/-SQL-green?&logo=MySQL&logoColor=white)
+![Java](https://img.shields.io/badge/Java-yellow?style=flat-square&logo=Java&logoColor=white)&nbsp;&nbsp;
+![Python](https://img.shields.io/badge/Python-skyblue?style=flat-square&logo=Python&logoColor=white)&nbsp;&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-orange?&logo=JavaScript&logoColor=white)&nbsp;&nbsp;
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)&nbsp;&nbsp;
+![SQL](https://img.shields.io/badge/-SQL-green?&logo=MySQL&logoColor=white)&nbsp;&nbsp;
 
 
 ### Technologies
 
-![React](https://img.shields.io/badge/React-333333?style=for-the-badge&logo=react&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux-333333?style=for-the-badge&logo=redux&logoColor=white)
-![React Router](https://img.shields.io/badge/React_Router-333333?style=for-the-badge&logo=react-router&logoColor=white)
-![Django](https://img.shields.io/badge/Django-333333?style=for-the-badge&logo=django&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-333333?style=for-the-badge&logo=flask&logoColor=white)
+![React](https://img.shields.io/badge/React-333333?style=for-the-badge&logo=react&logoColor=white)&nbsp;&nbsp;
+![Redux](https://img.shields.io/badge/Redux-333333?style=for-the-badge&logo=redux&logoColor=white)&nbsp;&nbsp;
+![React Router](https://img.shields.io/badge/React_Router-333333?style=for-the-badge&logo=react-router&logoColor=white)&nbsp;&nbsp;
+![Django](https://img.shields.io/badge/Django-333333?style=for-the-badge&logo=django&logoColor=white)&nbsp;&nbsp;
+![Flask](https://img.shields.io/badge/Flask-333333?style=for-the-badge&logo=flask&logoColor=white)&nbsp;&nbsp;
 <br>
-![Mysql](https://img.shields.io/badge/MySQL-333333?style=for-the-badge&logo=mysql&logoColor=white)
-![Redis](https://img.shields.io/badge/-Redis-333333?&logo=Redis&logoColor=white)
-![Sqlite](https://img.shields.io/badge/SQLite-333333?style=for-the-badge&logo=sqlite&logoColor=white)
-![Aws](https://img.shields.io/badge/Amazon_AWS-333333?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-333333?style=for-the-badge&logo=html5&logoColor=white)
+![Mysql](https://img.shields.io/badge/MySQL-333333?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;&nbsp;&nbsp;&nbsp;
+![Redis](https://img.shields.io/badge/-Redis-333333?&logo=Redis&logoColor=white)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+![Sqlite](https://img.shields.io/badge/SQLite-333333?style=for-the-badge&logo=sqlite&logoColor=white)&nbsp;&nbsp;
+![Aws](https://img.shields.io/badge/Amazon_AWS-333333?style=for-the-badge&logo=amazon-aws&logoColor=white)&nbsp;&nbsp;
+![HTML5](https://img.shields.io/badge/HTML5-333333?style=for-the-badge&logo=html5&logoColor=white)&nbsp;&nbsp;
 <br>
-![CSS3](https://img.shields.io/badge/CSS3-333333?style=for-the-badge&logo=css3&logoColor=white)
-![SASS](https://img.shields.io/badge/Sass-333333?style=for-the-badge&logo=sass&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-333333?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Material UI](https://img.shields.io/badge/Material--UI-333333?style=for-the-badge&logo=material-ui&logoColor=white)
-![Heroku](https://img.shields.io/badge/Heroku-333333?style=for-the-badge&logo=heroku&logoColor=white)
-![Git](https://img.shields.io/badge/Git-333333?style=flat-square&logo=Git&logoColor=white)
-
+![CSS3](https://img.shields.io/badge/CSS3-333333?style=for-the-badge&logo=css3&logoColor=white)&nbsp;&nbsp;
+![SASS](https://img.shields.io/badge/Sass-333333?style=for-the-badge&logo=sass&logoColor=white)&nbsp;&nbsp;
+![Bootstrap](https://img.shields.io/badge/Bootstrap-333333?style=for-the-badge&logo=bootstrap&logoColor=white)&nbsp;&nbsp;
+![Material UI](https://img.shields.io/badge/Material--UI-333333?style=for-the-badge&logo=material-ui&logoColor=white)&nbsp;&nbsp;
+![Heroku](https://img.shields.io/badge/Heroku-333333?style=for-the-badge&logo=heroku&logoColor=white)&nbsp;&nbsp;
+![Git](https://img.shields.io/badge/Git-333333?style=flat-square&logo=Git&logoColor=white)&nbsp;&nbsp;
+![Github](https://img.shields.io/badge/GitHub%20-%333333.svg?&style=for-the-badge&color=white") &nbsp;&nbsp;
 <br>
 
 ### Github Stats
@@ -94,5 +94,4 @@
 <br>
 
 
-  
-![](https://github.com/amandewatnitrr/amandewatnitrr/blob/main/imgs/bottom_header.svg)
+![image](https://github.com/soriano-dev/soriano-dev/blob/master/dino.gif)
