@@ -1,4 +1,4 @@
-# Hey Everyone! I'm [Aman Kumar Dewangan a.k.a AkD!](https://github.com/Rohit0301) <img src="https://github.com/himanshusharma89/himanshusharma89/blob/master/Hi.gif" width="25px">
+# Hey Everyone! I'm [Rohit Jain!](https://github.com/Rohit0301) <img src="https://github.com/himanshusharma89/himanshusharma89/blob/master/Hi.gif" width="25px">
 <br><br>
 
 <a href="https://www.linkedin.com/in/rohitjain0301/">
@@ -10,7 +10,7 @@
 <a href="https://www.instagram.com/_r.o.h.i.t_j.a.i.n/">
   <img align="left" alt="akd's Instagram" width="100px" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
-<br><br>
+
 <a href="https://www.hackerrank.com/rj03012002?hr_r=1">
   <img align="left" alt="akd's hackerrank" width="100px" src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=black" />
 </a>
@@ -50,11 +50,13 @@
 ![React Router](https://img.shields.io/badge/React_Router-333333?style=for-the-badge&logo=react-router&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-333333?style=for-the-badge&logo=django&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-333333?style=for-the-badge&logo=flask&logoColor=white)
+<br>
 ![Mysql](https://img.shields.io/badge/MySQL-333333?style=for-the-badge&logo=mysql&logoColor=white)
 ![Redis](https://img.shields.io/badge/-Redis-333333?&logo=Redis)
 ![Sqlite](https://img.shields.io/badge/SQLite-333333?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Aws](https://img.shields.io/badge/Amazon_AWS-333333?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-333333?style=for-the-badge&logo=html5&logoColor=white)
+<br>
 ![CSS3](https://img.shields.io/badge/CSS3-333333?style=for-the-badge&logo=css3&logoColor=white)
 ![SASS](https://img.shields.io/badge/Sass-333333?style=for-the-badge&logo=sass&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-333333?style=for-the-badge&logo=bootstrap&logoColor=white)
@@ -64,7 +66,7 @@
 
 <br>
 ### Github Stats
-
+<br>
 <p align="center">
   <a href="https://github.com/Rohit0301"><span>
     <img height="48%" src="https://github-readme-stats.vercel.app/api?username=Rohit0301&count_private=true&show_icons=true&theme=radical&&include_all_commits=true"/>
@@ -77,4 +79,5 @@
 
 <br>
 ### 📈 GitHub Activity:
+<br>
   <a href="https://github.com/Rohit0301/github-readme-activity-graph"><img alt="DenverCoder1's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Rohit0301&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
