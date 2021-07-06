@@ -21,7 +21,8 @@
   <img align="left" alt="akd's codechef" width="70px" src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white" />
 </a>
 
-<br><br>
+<br><br><br>
+
 ![](https://github.com/amandewatnitrr/amandewatnitrr/blob/main/header_.png)
 
 
@@ -36,23 +37,23 @@
 
 ### Languages
 
-![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=007396)
-![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
-![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
-![C++](https://img.shields.io/badge/-C++-000?&logo=c%2b%2b&logoColor=00599C)
-![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
+![Java](https://img.shields.io/badge/Java-013243?style=flat-square&logo=Java&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL&logoColor=white)
 
 
 ### Technologies
 
-![React](https://img.shields.io/badge/React-333333?style=for-the-badge&logo=react&logoColor=61DAFB)
+![React](https://img.shields.io/badge/React-333333?style=for-the-badge&logo=react&logoColor=white)
 ![Redux](https://img.shields.io/badge/Redux-333333?style=for-the-badge&logo=redux&logoColor=white)
 ![React Router](https://img.shields.io/badge/React_Router-333333?style=for-the-badge&logo=react-router&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-333333?style=for-the-badge&logo=django&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-333333?style=for-the-badge&logo=flask&logoColor=white)
 <br>
 ![Mysql](https://img.shields.io/badge/MySQL-333333?style=for-the-badge&logo=mysql&logoColor=white)
-![Redis](https://img.shields.io/badge/-Redis-333333?&logo=Redis)
+![Redis](https://img.shields.io/badge/-Redis-333333?&logo=Redis&logoColor=white)
 ![Sqlite](https://img.shields.io/badge/SQLite-333333?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Aws](https://img.shields.io/badge/Amazon_AWS-333333?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-333333?style=for-the-badge&logo=html5&logoColor=white)
@@ -62,22 +63,43 @@
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-333333?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Material UI](https://img.shields.io/badge/Material--UI-333333?style=for-the-badge&logo=material-ui&logoColor=white)
 ![Heroku](https://img.shields.io/badge/Heroku-333333?style=for-the-badge&logo=heroku&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white)
+![Git](https://img.shields.io/badge/Git-333333?style=flat-square&logo=Git&logoColor=white)
 
 <br>
+
 ### Github Stats
 <br>
 <p align="center">
   <a href="https://github.com/Rohit0301"><span>
     <img height="48%" src="https://github-readme-stats.vercel.app/api?username=Rohit0301&count_private=true&show_icons=true&theme=radical&&include_all_commits=true"/>
     <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Rohit0301&theme=radical" />
+    <br>
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Rohit0301&hide=html,css,javascript,scss&layout=compact&langs_count=8&theme=radical"/>
+    <br>
     <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rohit0301&theme=dracula" />
     </span></a>
 </p>
 
 
 <br>
+
+### 🏆 GitHub Profile Trophy:
+<p align="center">
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+  <img width=800 src="https://github-profile-trophy.vercel.app/?username=Rohit0301&column=8&theme=onedark&no-frame=true&no-bg=true"/>
+</a>
+</p>
+
+<br>
 ### 📈 GitHub Activity:
 <br>
   <a href="https://github.com/Rohit0301/github-readme-activity-graph"><img alt="DenverCoder1's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Rohit0301&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+
+<p align="center">
+<a href="https://profile.codersrank.io/user/ROhit0301"><img width="494px" src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=ROhit0301&layout=horizontal&badges=3&show-avatar=true&min-width=494px&branding=false&style=--bg-color:%23fff;--border:1px%20solid%23e4e2e2;--border-radius:4px;--header-padding:20px;--header-bg-color:%232f80ed;--name-font-size:18px;--name-font-weight:bold;--rank-font-size:14px;--preloader-color:%232f80ed;--badges-padding:20px;--badge-box-shadow:none;--badge-border:1px%20solid%23e4e2e2;--badge-rank-font-size:12px;--badge-location-font-size:12px;--badge-padding:10px;--badge-margin:10px;--badge-icon-size:16px;--badge-technology-font-size:14px;--badge-technology-font-weight:normal)" /></a>
+</p>
+
+<br>  
+
+  
+![](https://github.com/amandewatnitrr/amandewatnitrr/blob/main/imgs/bottom_header.svg)
