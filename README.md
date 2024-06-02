@@ -7,7 +7,7 @@
 <a href="https://github.com/Rohit0301)">
   <img align="left" alt="akd's Github" width="100px" src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=Github&logoColor=white" />
 </a>
-<a href="https://www.instagram.com/_r.o.h.i.t_j.a.i.n/">
+<a href="https://www.instagram.com/rohitjain0301/">
   <img align="left" alt="akd's Instagram" width="100px" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
 
@@ -29,10 +29,7 @@
 
 ### 💻 &nbsp;About Me 
 
-- 👷 <samp>Currently pursuing B.Tech in Computer Science Engrineering(2019-2023) from Oriental Institute of Science and Technology Bhopal.
-- 💼 <samp> Intern as Full Stack Developer (Tech :- React, Redux, Django, Aws, Mysql, Sass).
-- 🥇 <samp>Competitive Programmer (Codechef:- 4 star, Codeforces:- Specialist ).
-
+- 💼 <amp> Currently, I'm actively developing innovative full-stack applications and refining my skills in cloud technologies. My recent projects demonstrate proficiency in utilizing a diverse tech stack, including React.js, Node.js, Express.js, Django, and AWS services like S3 and EC2. Passionate about problem-solving and leveraging modern frameworks to create scalable and efficient solutions. Check out my repositories for a glimpse into my journey of continuous learning and exploration of cutting-edge technologies
 
 
 ### Languages
@@ -65,6 +62,10 @@
 ![Heroku](https://img.shields.io/badge/Heroku-333333?style=for-the-badge&logo=heroku&logoColor=white)&nbsp;&nbsp;
 ![Git](https://img.shields.io/badge/Git-333333?style=for-the-badge&logo=Git&logoColor=white)&nbsp;&nbsp;
 <br>
+![Jenkins](https://img.shields.io/badge/jenkins-333333?style=for-the-badge&logo=jenkins&logoColor=white)&nbsp;&nbsp;
+![Ansible](https://img.shields.io/badge/ansible-333333?style=for-the-badge&logo=ansible&logoColor=white)&nbsp;&nbsp;
+![Docker](https://img.shields.io/badge/docker-333333?style=for-the-badge&logo=docker&logoColor=white)&nbsp;&nbsp;
+![Elasticsearch](https://img.shields.io/badge/elasticsearch-333333?style=for-the-badge&logo=elasticsearch&logoColor=white)&nbsp;&nbsp;
 
 ### Github Stats
 <br>
